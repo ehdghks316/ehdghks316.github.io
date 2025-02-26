@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Take a look around"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Positnam`s Technology Blog"
+name                     : "Positnam Technology Blog"
 description              : "An amazing website."
 url                      : "https://ehdghks316.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
